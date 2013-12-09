@@ -1,2 +1,1 @@
-1.squashing commits
-2. dito
+squashing commits
